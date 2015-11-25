@@ -1,0 +1,42 @@
+{
+  "name": "audio-index-to-frequency",
+  "version": "1.0.0",
+  "description": "converts an index to Hz frequency for WebAudio",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "webaudio",
+    "frequencies",
+    "freq",
+    "freqs",
+    "frequency",
+    "hz",
+    "herz",
+    "index",
+    "range",
+    "analyser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/audio-index-to-frequency.git"
+  },
+  "homepage": "https://github.com/Jam3/audio-index-to-frequency",
+  "bugs": {
+    "url": "https://github.com/Jam3/audio-index-to-frequency/issues"
+  }
+}
